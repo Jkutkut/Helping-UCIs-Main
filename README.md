@@ -22,11 +22,13 @@ Cómo adaptarlo a distintas situaciones?
 -Mentores y expertos: (Se nos asignan) nos ayuda a focalizar el projecto
 
 -nosotros
+
     -Promotor (Gonsi)
     -Resto de simples mortales (equipos de 2-5 personas): problema?
 
 ## Herramientas oficiales:
 -Taiga: para crear los projectos
+
     -Crear y manejar tareas
     -Extensiones (Github/gitlab)
     
@@ -47,6 +49,7 @@ Guía de bienvenida: IMPORTANTE (contiene todo + criterios de selección).
 
 
 QUÉ ENTREGAR:
+
     -Formulario
     -Presentación de 6 slides || vídeo mediante link (Esto no tiene que ser precioso, lo importante es la idea)
 
