@@ -1,7 +1,7 @@
 # Guión del Vídeo:
 Primero tenemos que poner los problemas, que irían en la parte de las noticias 
 
-### Problemas:
+## Problemas:
     - La gran cantidad de contagios en poco tiempo satura el sistema
     - Desbordamiento de UCIs
     - Falta de tiempo para analizar de forma muy precisa los datos de los pacientes
@@ -11,7 +11,7 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias
 
 
 
-### Objetivos:
+## Objetivos:
 
     - Facilitar la labor del personal médico.
     - Centralizar datos (explicar la base de datos, no las relaciones, sino algunos datos que tendría en cuenta).
@@ -23,7 +23,7 @@ Primero tenemos que poner los problemas, que irían en la parte de las noticias
 
 
 
-#### Cómo implementarlos
+## Cómo implementarlos
     - Estudio previo de los parámetros médicos que influyen en el desarrollo del COVID-19.
     - Creación de una base de datos con la información de cada paciente (parámetros clave que afectan al desarrollo del virus).
     - Aprendizaje a partir de los datos de la bdd utilizando árboles de decisión, de forma que se pueda dar estimaciones de evolución a los pacientes de nuevo ingreso.
